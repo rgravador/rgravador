@@ -8,6 +8,8 @@ Full-stack engineer with a bias toward TypeScript and Vue/Nuxt. I build products
 
 **33 public &nbsp;·&nbsp; 14 private &nbsp;·&nbsp; 47 total**
 
+[@gigsbookph](https://github.com/gigsbookph) org &nbsp;·&nbsp; **1 public &nbsp;·&nbsp; 3 private &nbsp;·&nbsp; 4 total**
+
 ---
 
 ## Stack
