@@ -6,6 +6,8 @@ Full-stack engineer with a bias toward TypeScript and Vue/Nuxt. I build products
 
 ## Repositories
 
+> Also on GitHub as [@gitredgiegravador](https://github.com/gitredgiegravador) — an older account, no longer maintained.
+
 **33 public &nbsp;·&nbsp; 14 private &nbsp;·&nbsp; 47 total**
 
 [@gigsbookph](https://github.com/gigsbookph) org &nbsp;·&nbsp; **1 public &nbsp;·&nbsp; 3 private &nbsp;·&nbsp; 4 total**
@@ -53,5 +55,3 @@ Across 33 public repos, recent ones include:
 ---
 
 *Working at [8x8](https://www.8x8.com)*
-
-> Also on GitHub as [@gitredgiegravador](https://github.com/gitredgiegravador) — an older account, no longer maintained.
