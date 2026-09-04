@@ -50,15 +50,6 @@ Across 33 public repos, recent ones include:
 
 ---
 
-## Stats
-
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=rgravador&show_icons=true&hide_border=true&count_private=true&theme=default&rank_icon=github" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgravador&layout=compact&hide_border=true&theme=default&langs_count=8" />
-</p>
-
----
-
 *Working at [8x8](https://www.8x8.com)*
 
 > Also on GitHub as [@gitredgiegravador](https://github.com/gitredgiegravador) — an older account, no longer maintained.
