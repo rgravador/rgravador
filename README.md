@@ -60,3 +60,5 @@ Across 33 public repos, recent ones include:
 ---
 
 *Working at [8x8](https://www.8x8.com)*
+
+> Also on GitHub as [@gitredgiegravador](https://github.com/gitredgiegravador) — an older account, no longer maintained.
