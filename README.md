@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&height=32&lines=TypeScript+%C2%B7+Vue+%2F+Nuxt+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+products+end-to-end%2C+schema+to+UI;6%2B+years+shipping+in+production;Currently+at+8x8+(cloud+comms)" alt="Typing SVG" />
+<img src="./typing.svg" width="540" height="36" alt="TypeScript · Vue / Nuxt · Node.js · PostgreSQL" />
 
 <br/><br/>
 
@@ -10,7 +10,7 @@
 &nbsp;
 [![8x8](https://img.shields.io/badge/Currently%20at-8x8%20Inc.-FF6B35?style=for-the-badge)](https://8x8.com)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=rgravador&style=for-the-badge&color=0366D6&label=PROFILE+VIEWS)](https://github.com/rgravador)
+[![GigsBook](https://img.shields.io/badge/Side%20project-GigsBook%20PH-1a7f37?style=for-the-badge)](https://gigsbookph.com)
 
 </div>
 
@@ -46,16 +46,16 @@ I care about clean APIs, type safety, pragmatic architecture, and not shipping b
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rgravador&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Stats" />&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgravador&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rgravador&theme=github_dark" />&nbsp;&nbsp;
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rgravador&theme=github_dark" />
+
+<br/>
+
+<img width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rgravador&theme=github_dark" />
 
 <br/>
 
 <img width="680" src="https://streak-stats.demolab.com?user=rgravador&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-<br/>
-
-<img width="680" src="https://github-readme-activity-graph.vercel.app/graph?username=rgravador&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
@@ -67,19 +67,14 @@ I care about clean APIs, type safety, pragmatic architecture, and not shipping b
 
 <div align="center">
 
-<a href="https://github.com/rgravador/foundy-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgravador&repo=foundy-ui&theme=github_dark_dimmed&hide_border=true" />
-</a>&nbsp;
-<a href="https://github.com/rgravador/financer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgravador&repo=financer&theme=github_dark_dimmed&hide_border=true" />
-</a>
-
-<a href="https://github.com/rgravador/budget-planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgravador&repo=budget-planner&theme=github_dark_dimmed&hide_border=true" />
-</a>&nbsp;
-<a href="https://github.com/rgravador/loanstar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rgravador&repo=loanstar&theme=github_dark_dimmed&hide_border=true" />
-</a>
+| Project | Stack | About |
+|---|---|---|
+| **[foundy-ui](https://github.com/rgravador/foundy-ui)** | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | UI component library |
+| **[financer](https://github.com/rgravador/financer)** | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | Personal finance tracker |
+| **[budget-planner](https://github.com/rgravador/budget-planner)** | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Budget planning app |
+| **[ascendent-calendar](https://github.com/rgravador/ascendent-calendar)** | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Calendar application |
+| **[loanstar](https://github.com/rgravador/loanstar)** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | Loan management app |
+| **[growsari](https://github.com/rgravador/growsari)** | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | Vue project |
 
 </div>
 
